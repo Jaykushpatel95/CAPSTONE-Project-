@@ -1,4 +1,4 @@
-# Capstone Project in Pycharm
+# Capstone Project in Pycharm . first update
 # This notebook will be mainly used for the capstone project.
 import pandas as pd
 import numpy as np
